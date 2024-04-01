@@ -1,4 +1,4 @@
-# Data-Visualization-PowerBI
+# Data-Visualization-PowerBI - Global Superstore data
 
 🌱Project: Global Superstore Sales Analysis
 
